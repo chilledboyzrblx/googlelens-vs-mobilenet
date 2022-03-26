@@ -1,0 +1,14 @@
+body{
+    background-color:burlywood;
+}
+#heading_div{
+    font-family:'Courier New', Courier, monospace;
+}
+.img-responsive{
+    width: 50%;
+    height:50%;
+}
+.test_image_and_result{
+    background-color: azure;
+    border-radius:25px;
+}
